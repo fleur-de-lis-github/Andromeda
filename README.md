@@ -1,4 +1,4 @@
 # Andromeda
 
 ## Business Client
-![ChessUrl](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HUnafMk_f4YLnyPFGySB7R1KD-yw-TBvgA&usqp=CAU"chess")
+![ChessUrl](https://c.tenor.com/kJnySS9eKvUAAAAC/crashing-to-earth-meteor-showers101.gif"chess")
