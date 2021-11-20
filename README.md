@@ -1,4 +1,4 @@
 # Andromeda
 
 ## Business Client
-![ChessUrl](https://c.tenor.com/XHZnTUUa7H8AAAAd/expanse-asteroid.gif"chess")
+![ChessUrl](https://scitechdaily.com/images/Asteroid-Strike-Animation.gif"chess")
