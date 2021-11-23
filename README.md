@@ -33,7 +33,7 @@ All the data is from the (http://neo.jpl.nasa.gov/).
 
 :earth_africa:The Irradiance dataset contains such columns as: "wind direction", "wind speed", "humidity" and temperature. The response parameter that is to be predicted is: "Solar_radiation". It contains measurements for the past 4 months and you have to predict the level of solar radiation.
 
-##Citation
+## Citation
 - http://dspace.univ-msila.dz:8080/xmlui/handle/123456789/21036
 - https://ieeexplore.ieee.org/abstract/document/8891934
 - https://ieeexplore.ieee.org/document/7106780
